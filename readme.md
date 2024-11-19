@@ -5,3 +5,5 @@ Grupo:2-4
 
 --Comando para ejecutar en terminal--
 mvnw.cmd spring-boot:run
+
+(Error con puerto 8080)
